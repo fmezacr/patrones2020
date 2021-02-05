@@ -1,5 +1,5 @@
-Clase 2 - PREPROCESADO
+## Clase 2 - PREPROCESADO
 
-Notebook: Preproc.ipyl
+Notebook: Preproc.ipynb
 
-Data: 
+Data: house-votes-84.data 
