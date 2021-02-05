@@ -1,5 +1,5 @@
 ## Clase 2 - PREPROCESADO
 
-Notebook: Preproc.ipynb
-
-Data: house-votes-84.data 
+Notebook corresponde al archivo $Preproc.ipynb$
+ 
+Data corresponde al file: $house-votes-84.data$ 
